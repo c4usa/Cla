@@ -1,6 +1,7 @@
+//Enlazar los archivos .h (header) y .c, en un punto exe
+//gcc main.c funciones.c -o nombre
 #include <stdio.h>
 #include "funciones.h"
-
 int main(int argc, char *argv[])
 {
 
